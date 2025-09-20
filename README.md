@@ -1,4 +1,13 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align="center">
+  <picture>
+    <!-- Imagen para modo oscuro -->
+    <source srcset="https://i.imgur.com/Qchb2UP.png" media="(prefers-color-scheme: dark)" />
+    <!-- Imagen para modo claro -->
+    <source srcset="https://i.imgur.com/5rlhspN.png" media="(prefers-color-scheme: light)" />
+    <!-- Fallback (por si no soporta prefers-color-scheme) -->
+    <img src="https://i.imgur.com/tu-imagen-negra.png" alt="Mi nombre" />
+  </picture>
+</p>
 
 <div>
 
