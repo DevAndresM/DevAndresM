@@ -1,27 +1,24 @@
 <p align="center">
   <picture>
-    <!-- Imagen para modo oscuro -->
     <source srcset="https://i.imgur.com/Qchb2UP.png" media="(prefers-color-scheme: dark)" />
-    <!-- Imagen para modo claro -->
     <source srcset="https://i.imgur.com/5rlhspN.png" media="(prefers-color-scheme: light)" />
-    <!-- Fallback (por si no soporta prefers-color-scheme) -->
     <img src="https://i.imgur.com/Qchb2UP.png" alt="Mi nombre" />
   </picture>
 </p>
 
-<div>
+<table>
+  <tr>
+    <td valign="top">
+      <h2>🧑‍💻 About Me</h2>
+      <ul>
+        <li>🎮 Desarrollador de <strong>Android & Videojuegos (Unity, Unreal, Godot)</strong></li>
+        <li>⚡ Con experiencia en <strong>gameplay, networking (Photon PUN) y optimización</strong></li>
+        <li>🌍 Juegos publicados en <strong>Google Play Store</strong> y proyectos multijugador en curso</li>
+        <li>🚀 Siempre aprendiendo nuevas tecnologías y buscando crecer como <strong>indie dev & emprendedor tech</strong></li>
+        <li>🎯 Mi meta: construir experiencias únicas y un <strong>ecosistema propio en la industria de los videojuegos</strong></li>
+      
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/>
-
-## 🧑‍💻 About Me
-- 🎮 Desarrollador de **Android & Videojuegos (Unity, Unreal, Godot)**  
-- ⚡ Con experiencia en **gameplay, networking (Photon PUN) y optimización**  
-- 🌍 Juegos publicados en **Google Play Store** y proyectos multijugador en curso  
-- 🚀 Siempre aprendiendo nuevas tecnologías y buscando crecer como **indie dev & emprendedor tech**  
-- 🎯 Mi meta: construir experiencias únicas y un **ecosistema propio en la industria de los videojuegos**  
-
-
---------------
+---
 
 ## 🚀 Tech Stack
 ### 🎯 Lenguajes
@@ -52,12 +49,13 @@
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
-- 🎮 [**Juntos (Multiplayer)**](#) – Juego cooperativo 3D en Unity con Photon PUN.  
-- 📱 [**Android Projects**](#) – Apps móviles publicadas en Google Play.  
-- 🖥️ [**Experimental Prototypes**](#) – Ideas en desarrollo y prototipos jugables.  
+- 🎮 [**Juntos (Multiplayer)**](#) – Juego cooperativo 3D en Unity con Photon PUN.
+- 📱 [**Android Projects**](#) – Apps móviles publicadas en Google Play.
+- 🖥️ [**Experimental Prototypes**](#) – Ideas en desarrollo y prototipos jugables.
 
 ---
 
@@ -76,3 +74,18 @@
   <a href="https://www.facebook.com/profile.php?id=61557724624800"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/dev_andresm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+</ul>
+    </td>
+    <td width="400" align="right">
+      <div align="center">
+        <!-- Imagen arriba -->
+        <img alt="Arriba" width="400" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/><br/>
+<!-- Imagen en medio -->
+        <img alt="Shimarin" width="250" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/><br/>  
+<!-- Imagen abajo -->
+        <img alt="Abajo" width="400" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/>
+      </div>
+    </td>
+  </tr>
+</table>
