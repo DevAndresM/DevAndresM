@@ -82,9 +82,10 @@
         <!-- Imagen arriba -->
         <img alt="Arriba" width="400" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/><br/>
 <!-- Imagen en medio -->
-        <img alt="Shimarin" width="250" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/><br/>  
-<!-- Imagen abajo -->
-        <img alt="Abajo" width="400" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/>
+        <img alt="Shimarin" width="400" src="https://i.imgur.com/x2XABMn_d.gif?maxwidth=520&shape=thumb&fidelity=high"/><br/>  
+<!-- Imágenes abajo (puedes repetir cuantas quieras) -->
+        <img alt="Abajo 1" width="400" src="https://i.imgur.com/AnaMhfx.gif"/><br/>
+        <img alt="Abajo 1" width="400" src="https://i.imgur.com/oQERTTL_d.png?maxwidth=520&shape=thumb&fidelity=high"/><br/>
       </div>
     </td>
   </tr>
