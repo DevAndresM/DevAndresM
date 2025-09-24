@@ -14,34 +14,44 @@
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/NguDuud_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"/>
 
 ## 🧑‍💻 About Me
-- ⭐ Desarrollador **Android & Videojuegos (Unity, Unreal, Godot)**
-- 👾 Apasionado por **multijugador con Photon PUN**
-- 🎮 Publicados en **Play Store**
-- 🚀 Buscando crecer como **indie dev & emprendedor tech**
+- 🎮 Desarrollador de **Android & Videojuegos (Unity, Unreal, Godot)**  
+- ⚡ Con experiencia en **gameplay, networking (Photon PUN) y optimización**  
+- 🌍 Juegos publicados en **Google Play Store** y proyectos multijugador en curso  
+- 🚀 Siempre aprendiendo nuevas tecnologías y buscando crecer como **indie dev & emprendedor tech**  
+- 🎯 Mi meta: construir experiencias únicas y un **ecosistema propio en la industria de los videojuegos**  
 
----
+
+--------------
 
 ## 🚀 Tech Stack
 ### 🎯 Lenguajes
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### ⚡ Frameworks & Libraries
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![React](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🎨 Diseño
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+### 🎨 Diseño y Producción
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-FF0000.svg?style=for-the-badge&logo=adobe%20animate&logoColor=white)
+![Adobe Character Animator](https://img.shields.io/badge/Adobe%20Character%20Animator-FF61F6.svg?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713.svg?style=for-the-badge&logo=houdini&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-ffb000.svg?style=for-the-badge&logo=flstudio&logoColor=white)
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC.svg?style=for-the-badge&logo=audacity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## 📂 Featured Projects
@@ -61,8 +71,8 @@
 
 ## 🌍 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/tu-youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/tu-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/tu-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Dev_AndresM"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@dev_andresm"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61557724624800"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dev_andresm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
